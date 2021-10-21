@@ -1,0 +1,1 @@
+Appserv kurulumu ile dosyayı www root dizininde çalıştırabilirsiniz. Bu proje basic bir Php projesidir. Do While döngüsü kullanılan bu örnek basit bir sayı tahmin etme programıdır.
